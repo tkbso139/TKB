@@ -1,0 +1,6 @@
+{
+  "name": "EduPlan - Quản lý TKB, Lịch Báo Giảng & Kế Hoạch Bài Dạy Tiểu Học",
+  "description": "Ứng dụng lập Thời khóa biểu, Lịch báo giảng và Kế hoạch bài dạy (KHBD) chuẩn Công văn 2345/BGDĐT cho Khối lớp 1-5, tích hợp Năng lực số, AI, QCN, QPAN, Dinh dưỡng và xuất file Word tuần với font 12/13/14.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
